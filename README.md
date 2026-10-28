@@ -22,4 +22,3 @@ autobiography, projects, skills, certificates, and team achievements.
 5. Open Streamlit's local URL, usually <http://localhost:8501>.
 6. Run the tests with `python -m pytest tests/`.
 
-git status
